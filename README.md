@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @goldfishdolphin
+- 👋 Hi, I’m an aspiring software developer @goldfishdolphin
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Python & JavaScript.
 <!---
