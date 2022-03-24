@@ -1,5 +1,5 @@
 - 👋 Hi, I’m an aspiring software developer @goldfishdolphin
-- 👀 I’m interested in Software Development.
+- 👀 I’m interested in front end and Full stack Software Development .
 - 🌱 I’m currently learning Python & JavaScript.
 <!---
 goldfishdolphin/goldfishdolphin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
