@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a junior software developer.
-- 👀 I’m looking for a career in front end and Full stack Software Development .
+- 👀 I’m upskilling myself for a career in frontend and Full stack Software Development .
 - 🌱 I’m working on HTML5, CSS, Python, SQL & JavaScript.
 
 <!---
