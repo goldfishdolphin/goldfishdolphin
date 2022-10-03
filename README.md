@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an aspiring software developer.
+- 👋 Hi, I’m a junior software developer.
 - 👀 I’m upskilling myself for a career in frontend and Full stack Software Development .
 
 
