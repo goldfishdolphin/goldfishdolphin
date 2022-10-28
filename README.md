@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a junior software developer.
-- 👀 I’m upskilling myself for a career in frontend and Full stack Software Development .
+
+- Full stack Software Developer.
 
 
 <!---
