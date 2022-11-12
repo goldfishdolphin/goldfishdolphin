@@ -1,5 +1,7 @@
 
-- Full stack Software Developer.
+## Full Stack Software Developer.
+
+[![Naureen's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldfishdolphin&count_private=true)](https://github.com/goldfishdolphin/github-readme-stats)
 
 
 <!---
