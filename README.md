@@ -27,8 +27,7 @@
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react js"/> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" /> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" /><br/>
   
 ### Database management
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" /> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" /><br/>
-<img width="50" src="" alt="" />
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" /> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" /> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" /><br/> 
 ### Testing and task runners
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest"/>
 
