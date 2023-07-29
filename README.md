@@ -3,7 +3,7 @@
 
 🚀 As a Web and Software Developer, I'm embarking on a journey of self-discovery and career transformation.
 
-🤖 I'm passionate about innovation and creativity in the tech world.
+🤖 I'm passionate about innovation, creativity and empowering others in the tech world.
 
 🎓 I'm proud to be Northcoders, a coding software development bootcamp graduate, where I learned new skills and tackled the challenges of this dynamic industry.
 
