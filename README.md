@@ -8,11 +8,14 @@
 ## Languages and tools I can use:
 ### Markup and languages
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript"/> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript"/><img  width="50"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"/> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html 5"/> <br/>
+
 ### Environments
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node js"/>
+
 ### Styling
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css 3" /> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" /><br/>
- ### UI / design
+ 
+### UI / design
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" /><br/> 
   
 ### Frameworks
