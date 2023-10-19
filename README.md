@@ -10,7 +10,9 @@
   
 ## Languages and tools I can use:
 ### Markup and languages
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript"/> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript"/><img  width="50"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"/> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html 5"/> <br/>
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript"/> 
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java"/>
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript"/><img  width="50"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"/> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html 5"/> <br/>
 
 ### Environments
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node js"/>
