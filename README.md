@@ -1,10 +1,11 @@
 ## Full-Stack Software Developer.
 
-🚀 As a Web and Software Developer, I'm embarking on a journey of self-discovery and career transformation.
+🚀 As a Software Developer, I'm embarking on a journey of self-discovery and career transformation.
 
-🤖 I'm passionate about innovation and creativity in the tech world.
+🤖 I gained digital skills and software development expertise through self-learning and bootcamps.
 
-🎓 I'm proud to be Northcoders, a coding software development bootcamp graduate, where I learned new skills and tackled the challenges of this dynamic industry.
+🎓 I am pursuing a Master's degree in Computer Science to advance my career in software development.
+    
   
 ---
   
