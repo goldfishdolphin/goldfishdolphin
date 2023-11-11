@@ -1,6 +1,6 @@
 ## Full-Stack Software Developer.
 
-🚀 As a Software Developer, I'm embarking on a journey of self-discovery and career transformation.
+🚀 As a Software Developer, I'm embarking on a journey of career transformation.
 
 🤖 I gained digital skills and software development expertise through self-learning and bootcamps.
 
