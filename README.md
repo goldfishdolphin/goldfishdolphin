@@ -19,7 +19,7 @@
 ### Styling
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css 3" /> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" /><br/>
  
-### UI / design
+### UI design
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" /><br/> 
   
 ### Frameworks
