@@ -1,10 +1,9 @@
-## Full-Stack Software Developer.
+## Software Engineer
 
-🚀 As a Software Developer, I'm embarking on a journey of career transformation.
 
-🤖 I gained digital skills and software development expertise through self-learning and bootcamps.
 
-🎓 I am pursuing a Master's degree in Computer Science to advance my career in software development.
+🤖 I gained software development skills through self-learning, bootcamps and a postgraduate degree in Computer Science.
+
     
   
 ---
