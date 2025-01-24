@@ -5,7 +5,7 @@
 🤖 I gained software development skills through self-learning, bootcamps and a postgraduate degree in Computer Science.
 
     
-  
+ <!-
 ---
   
 ## Languages and tools I can use:
@@ -28,3 +28,5 @@
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" /> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" /> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" /><br/> 
 ### Testing and task runners
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest"/>
+"""
+-->
