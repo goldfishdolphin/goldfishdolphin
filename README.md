@@ -5,7 +5,7 @@
 🤖 I gained software development skills through self-learning, bootcamps and a postgraduate degree in Computer Science.
 
     
- <!-
+ <!--
 ---
   
 ## Languages and tools I can use:
