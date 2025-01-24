@@ -5,7 +5,7 @@
 🤖 I gained software development skills through self-learning, bootcamps and a postgraduate degree in Computer Science.
 
     
- <!-
+ 
 ---
   
 ## Languages and tools I can use:
@@ -29,4 +29,4 @@
 ### Testing and task runners
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest"/>
 """
--->
+
