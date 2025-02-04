@@ -10,10 +10,10 @@ I'm a software engineer with a passion for backend. I love working on projects t
 - **Tools**: [List of Tools]
 
 ## Projects
-### [Project Name]
-- **Description**: [Brief description of the project]
+### Wholesale Food Store Application: 
+- **Description**: 
 - **Technologies Used**: [Technologies used in the project]
-- **Link**: [Repository Link]
+- **Link**: [Repository Link](https://github.com/goldfishdolphin/wholesalefoodstore)
 
 ### [Project Name]
 - **Description**: [Brief description of the project]
