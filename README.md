@@ -1,45 +1,34 @@
-## Software Engineer
 
+# Hello, I'm Naureen 👋
 
+## About Me
+I'm a software engineer with a passion for backend. I love working on projects that involve [Your Skills or Technologies].
 
-🤖 I gained software development skills through self-learning, bootcamps and a postgraduate degree in Computer Science.
+## Skills
+- **Languages**: [List of Languages]
+- **Frameworks**: [List of Frameworks]
+- **Tools**: [List of Tools]
 
 ## Projects
-### Markup and languages
-NC News
-Wholesale Food Store
-Film API Server
-Film MVC App
-Dictionary
-CellestiALL 
+### [Project Name]
+- **Description**: [Brief description of the project]
+- **Technologies Used**: [Technologies used in the project]
+- **Link**: [Repository Link]
+
+### [Project Name]
+- **Description**: [Brief description of the project]
+- **Technologies Used**: [Technologies used in the project]
+- **Link**: [Repository Link]
+
+## Experience
+- **[Job Title]** at **[Company Name]**
+  - [Brief description of your role and achievements]
+- **[Job Title]** at **[Company Name]**
+  - [Brief description of your role and achievements]
+
+## Education
+- **Postgraduate Degree** in **Computer Science** from **Manchester Metropolitan University**
+  - [2023-2024]
 
 
-Data Structure Portfolio
-Research Emotion Dectection
 
-    
- <!--
----
-  
-## Languages and tools I can use:
-### Markup and languages
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript"/>  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java"/> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript"/> <img  width="50"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"/> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html 5"/> <br/>
-
-### Environments
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node js"/>
-
-### Styling
-  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css 3" /> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" /><br/>
- 
-### UI design
-  <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" /><br/> 
-  
-### Frameworks
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react js"/> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" /> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" /><br/>
-
-### Database management
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" /> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" /> <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" /><br/> 
-### Testing and task runners
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest"/>
-"""
--->
