@@ -5,14 +5,15 @@
 I'm a software engineer with a passion for backend. I love working on projects that involve [Your Skills or Technologies].
 
 ## Skills
-- **Languages**: [List of Languages]
-- **Frameworks**: [List of Frameworks]
-- **Tools**: [List of Tools]
+- **Languages**: Python, Java, C#, JavaScript, HTML, CSS
+- **Frameworks**: React, Express, Django, Spring Boot
+- **Tools**: Git, Trello, Notion, IDEs
 
 ## Projects
 ### Wholesale Food Store Application: 
-- **Description**: 
-- **Technologies Used**: [Technologies used in the project]
+- **Description**: Wholesale Food Store Application: 
+Developed a menu console and web application for a wholesale food store. 
+- **Technologies Used**: Java, HTTP server, JavaDocs, Git, GitHub, HTML, CSS, Mockito, JUnit, JDBC, and SQLite
 - **Link**: [Repository Link](https://github.com/goldfishdolphin/wholesalefoodstore)
 
 ### [Project Name]
