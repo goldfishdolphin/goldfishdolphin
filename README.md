@@ -8,7 +8,7 @@ I'm a software engineer trained through postgrad degree in Computer Science, boo
 ## Skills
 - **Languages**: Python, Java, C#, JavaScript, HTML, CSS
 - **Frameworks**: React, Express, Django, Spring Boot, Bootstrap
-- **Tools**: Git, Trello, Notion, IDEs
+- **Tools**: Git, Trello, Notion, Figma
 
 ## Projects
 ### Wholesale Food Store Application: 
