@@ -1,4 +1,5 @@
 
+
 # Hello, I'm Naureen 👋
 
 ## About Me
@@ -15,10 +16,6 @@ I'm a software engineer trained through postgrad degree in Computer Science, boo
 Developed a menu console and web application for a wholesale food store. 
 - **Technologies Used**: Java, HTTP server, JavaDocs, Git, GitHub, HTML, CSS, Mockito, JUnit, JDBC, and SQLite
 - **Link**: [Repository Link](https://github.com/goldfishdolphin/wholesalefoodstore)
-
-
-
-
 
 
 
