@@ -3,7 +3,7 @@
 # Hello, I'm Naureen 👋
 
 ## About Me
-I'm a software engineer trained through postgrad degree in Computer Science, bootcamps and self learning.
+I'm a software engineer trained through postgrad degree in Computer Science, bootcamps and self learning. Currently I am learning JAVA Spring Boot.
 
 ## Skills
 - **Languages**: Python, Java, C#, JavaScript, HTML, CSS
