@@ -9,7 +9,7 @@
 
 
 ## Skills
-- **Languages**: Python, Java, C#, JavaScript, HTML, CSS
+- **Languages**: Python, Java, C#, JavaScript,SQL, HTML, CSS
 - **Frameworks**: React, Express, Spring Boot, Bootstrap
 - **Tools**: Git, Trello, Notion, Figma
 
