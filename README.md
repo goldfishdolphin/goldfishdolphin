@@ -3,7 +3,8 @@
 # Hello, I'm Naureen 👋
 
 ## About Me
-I'm a software engineer trained through postgrad degree in Computer Science, bootcamps and self learning. Currently I am learning JAVA Spring Boot.
+A dedicated software engineer with a distinction in MSc Computer Science from Manchester Metropolitan University. Transitioned from an 11-year career in business management to software development through bootcamp training and self-learning. Passionate about mentoring, inspiring, and empowering others in coding. Seeking a tech role to grow as a software engineer by leveraging a diverse skill set and a strong foundation in both business and technology.
+
 
 ## Skills
 - **Languages**: Python, Java, C#, JavaScript, HTML, CSS
