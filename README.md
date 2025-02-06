@@ -14,7 +14,7 @@ I'm a software engineer trained through postgrad degree in Computer Science, boo
 ### Wholesale Food Store Application: 
 - **Description**: Wholesale Food Store Application: 
 Developed a menu console and web application for a wholesale food store. 
-- **Technologies Used**: Java, HTTP server, JavaDocs, Git, GitHub, HTML, CSS, Mockito, JUnit, JDBC, and SQLite
+- **Technologies Used**: Java, HTTP server, JavaDocs, HTML, CSS, Mockito, JUnit, JDBC, and SQLite
 - **Link**: [Repository Link](https://github.com/goldfishdolphin/wholesalefoodstore)
 
 
