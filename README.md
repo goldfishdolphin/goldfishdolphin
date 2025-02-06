@@ -13,12 +13,13 @@
 - **Frameworks**: React, Express, Spring Boot, Bootstrap
 - **Tools**: Git, Trello, Notion, Figma
 
+<!---
 ## Projects
 ### Wholesale Food Store Application: 
 - **Description**: Wholesale Food Store Application: 
 Developed a menu console and web application for a wholesale food store. 
 - **Technologies Used**: Java, HTTP server, JavaDocs, HTML, CSS, Mockito, JUnit, JDBC, and SQLite
-- **Link**: [Repository Link](https://github.com/goldfishdolphin/wholesalefoodstore)
-
+- **Link**: [Repository Link](https://github.com/goldfishdolphin/wholesalefoodstore)]: '''
+-->
 
 
