@@ -10,7 +10,7 @@
 
 ## Skills
 - **Languages**: Python, Java, C#, JavaScript,SQL, HTML, CSS
-- **Frameworks**: React, Express, Spring Boot, Bootstrap
+- **Frameworks**: React,Angular,Express, Spring Boot, Bootstrap
 - **Tools**: Git, Trello, Notion, Figma
 
 <!---
